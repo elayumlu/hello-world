@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ElaYUMLU\\source\\repos\\hello-world\\hello-world.csproj": {}
+    "c:\\Users\\ElaYUMLU\\source\\repos\\hello-world\\hello-world.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ElaYUMLU\\source\\repos\\hello-world\\hello-world.csproj": {
+    "c:\\Users\\ElaYUMLU\\source\\repos\\hello-world\\hello-world.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ElaYUMLU\\source\\repos\\hello-world\\hello-world.csproj",
+        "projectUniqueName": "c:\\Users\\ElaYUMLU\\source\\repos\\hello-world\\hello-world.csproj",
         "projectName": "hello-world",
-        "projectPath": "C:\\Users\\ElaYUMLU\\source\\repos\\hello-world\\hello-world.csproj",
+        "projectPath": "c:\\Users\\ElaYUMLU\\source\\repos\\hello-world\\hello-world.csproj",
         "packagesPath": "C:\\Users\\ElaYUMLU\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ElaYUMLU\\source\\repos\\hello-world\\obj\\",
+        "outputPath": "c:\\Users\\ElaYUMLU\\source\\repos\\hello-world\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
